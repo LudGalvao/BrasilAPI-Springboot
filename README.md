@@ -20,10 +20,10 @@
 
         <!-- Swagger UI for API documentation -->
         <dependency>
-			<groupId>org.springdoc</groupId>
-			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-			<version>2.5.0</version>
-		</dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+            <version>2.5.0</version>
+	</dependency>
 
         <!-- BrasilAPI-Java -->
         <dependency>

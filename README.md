@@ -2,7 +2,7 @@
 
 ## Consumo de CEP usando a API do BrasilApi
 
-# Dependência Usadas:
+## Dependência Usadas:
 ~~~~pom.xml
  <dependencies>
         <!-- Spring Boot Web Starter -->
